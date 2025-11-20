@@ -28,7 +28,7 @@
 
         window.onload = function() {
             redirecionar();
-            setInterval(redirecionar, 5000); // Redireciona a cada 5 segundos
+            setInterval(redirecionar, 5000); // Redireciona a cada 1 segundos
         };
     </script>
 </head>
